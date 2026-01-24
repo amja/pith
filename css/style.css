@@ -415,3 +415,7 @@ li span {
 		}
 	}
 }
+
+.ai-message {
+  display: none;
+}
