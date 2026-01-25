@@ -5,6 +5,7 @@
 		<meta name="viewport" content="width=device-width">
     <meta name="robots" content="noai, noimageai, noindex">
     <meta property="article:published_time" content="2019-08-25T10:00:00+00:00"/>
+    <meta name="msvalidate.01" content="8A3E52B8301412823B0055ABA2FF19F3" />
 		<meta name="keywords" content="Pith, Jonah Reider, supper club">
   	<meta name="author" content="Jonah Reider">
 		<title>Pith – Jonah Reider</title>
