@@ -16,6 +16,17 @@ body {
 	padding:0;
 }
 
+.banner {
+  background: white;
+  font-family: Hoefler Text;
+  font-size: 12pt;
+  padding: 5px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 100%;
+}
+
 a {
 	color:black;
 	text-decoration: underline;
